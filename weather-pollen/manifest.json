@@ -1,0 +1,7 @@
+{
+  "name": "weather-pollen",
+  "version": "1.0.3",
+  "description": "Weather and pollen reports for any location using free APIs. Get current conditions, forecasts, and pollen data.",
+  "source": "clawhub",
+  "sourceVersion": "1.0.3"
+}
